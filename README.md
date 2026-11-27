@@ -1,2 +1,27 @@
-# IrishTV
-Enjoy watching your favorite television live programs with ultimate simplicity
+# Irish TV - United Kingdom HD television live
+
+## Enjoy watching your favorite television live programs with ultimate simplicity
+
+<p align="center">
+  <img src="screenshots/7_portrait_1080x1920_01.png" width="160" style="margin: 5px;">
+  <img src="screenshots/7_portrait_1080x1920_07.png" width="160" style="margin: 5px;">
+  <img src="screenshots/7_portrait_1080x1920_09.png" width="160" style="margin: 5px;">
+  <img src="screenshots/7_portrait_1080x1920_11.png" width="160" style="margin: 5px;">
+  <img src="screenshots/7_portrait_1080x1920_13.png" width="160" style="margin: 5px;">
+</p>
+
+Irish TV is a stunning app which enables you to watch the latest Irish live news and entertainment. It is a free application which provides you perfect opportunity to watch live television of Ireland around the world. You can directly access your favorite television channels and watch diverse news, films, talk shows, programs etc. from your smartphone and tablet anywhere and anytime. 
+
+IF YOU HAVE ANY ISSUE, REPORT OR CLAIM ABOUT ANY TV CHANNEL, PLEASE DON’T HESITATE TO CONTACT US BY EMAIL INSIDE THIS APPLICATION. ALL THE TIME WE LOOK FORWARD TO HEARING YOUR COMPLAINTS, INQUIRIES AND ADVICES
+
+<br>
+
+<p align="center">
+  <a href="https://m.onestore.co.kr/v2/ko-kr/app/0001013467"><img src="screenshots/onestore.png" height="50" hspace="5"></a>
+  &nbsp;&nbsp;
+  <a href="https://apkpure.com/p/mouflon.apps.core.ie"><img src="screenshots/apkpure.png" height="50" hspace="5"></a>
+  &nbsp;&nbsp;
+  <a href="https://appgallery.huawei.com/#/app/C119966233"><img src="screenshots/huawei.png" height="50" hspace="5"></a>
+  &nbsp;&nbsp;
+  <a href="https://mouflon-apps.itch.io/tv-ie"><img src="screenshots/itch.png" height="50" hspace="5"></a>
+</p>
